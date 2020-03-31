@@ -1,1 +1,1 @@
-# CanvJS Activity
+# CanvasJS Activity
